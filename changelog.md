@@ -171,5 +171,5 @@ Fallout Anomaly 0.5.9 is a major systems update focused on long-term stability, 
 * Brief freezes during startup or teleport are expected while scripts load.
 
 ---
-
+Test Updater
 
