@@ -1,3 +1,76 @@
+## Fallout Anomaly Update v0.5.9.1 – System Overhaul  
+**February 2, 2026**
+
+---
+
+## ✨ Major Mod Additions
+
+### **Boon Island – Isles of New England**  
+A hauntingly atmospheric addition to the New England coastline. Explore a desolate lighthouse island featuring unique quests, environmental storytelling, and challenges built for hardcore exploration.  
+🔗 https://www.nexusmods.com/fallout4/mods/84449
+
+### **Misery Island – Isles of New England**  
+A massive expansion to the *Isles of New England* series. Introduces a large new worldspace with fully voiced quests, lore-driven settlements, and dense environmental storytelling that expands late-game content significantly.  
+🔗 https://www.nexusmods.com/fallout4/mods/87983
+
+### **Animated World Framework**  
+Adds pre-placed, context-aware animations for NPCs and environmental objects. The Commonwealth now feels more reactive and alive as characters naturally interact with their surroundings.  
+🔗 https://www.nexusmods.com/fallout4/mods/100946
+
+### **Feral Nights (SKK)**  
+Nighttime is now far more dangerous. Feral ghouls dynamically form hunting packs after dark and actively track the player. Night travel now demands preparation, stealth, and awareness.  
+🔗 https://www.nexusmods.com/fallout4/mods/52449
+
+### **Feral Infestations (FlashyJoeR)**  
+Ghoul infestations are no longer static encounters. These dynamic hotzones grow in intensity if ignored and must be actively cleared to maintain safe routes and settlement stability.  
+🔗 https://www.nexusmods.com/fallout4/mods/65406
+
+---
+
+## 🚀 New Tools & Features
+
+### **Anomaly Launcher v0.0.1 (Alpha)**  
+The first public build of the **Anomaly Launcher** is now included. This lightweight tool lives in your root directory and acts as a bridge between the modlist and update infrastructure.
+
+- **Auto-Update Check** – Scans for modlist updates and patches on launch  
+- **Smart Sync** – Verifies your local setup against the official Anomaly baseline before play
+
+### **Master Guide & Mod Settings Overhaul**  
+The in-game configuration hub has been fully rebuilt for clarity and stability.
+
+- **Centralized Configuration**  
+  All master toggles for **Combat Damage**, **Medical Healing**, and **Core Survival** are now grouped into high-priority pages.
+- **AN76 Integration**  
+  Redundant Advanced Needs 76 menus have been removed. All system toggles (Needs, Hygiene, Takedowns, etc.) are now controlled directly through the Master Guide.
+
+---
+
+## 🗑️ Cleanup & Optimization
+
+- **Redundancy Pass**  
+  **True Damage** and **Scourge** have been removed. Combat remains lethal and high-stakes, but is now fully controlled through streamlined sliders within Anomaly’s core configuration.
+- **Equipment Slot Limits**  
+  Moved to **Optional**. Disabled by default while we coordinate with the mod author to resolve potential slot conflicts.
+
+---
+
+## 🐞 Bug Tracking
+
+View all resolved issues and fixes for this release on the official tracker:  
+https://github.com/orgs/Fallout-Anomaly/projects/50/views/1
+
+---
+
+## ❤️ Consider Endorsing
+
+If you’re enjoying **Fallout Anomaly**, please consider endorsing the modlist on Nexus:  
+🔗 https://www.nexusmods.com/fallout4/mods/74075  
+
+*Note: Nexus requires downloading the file and waiting at least 15 minutes before endorsing.*
+
+
+
+
 
 # Fallout Anomaly 0.5.9 — Full Changelog  2/1/2026
 
