@@ -1,3 +1,89 @@
+# 🚀 Fallout Anomaly – Launcher Update  
+**HOTFIX • SAVE SAFE • 2/2/2026**
+
+![Launcher Update](https://github.com/user-attachments/assets/403c1c67-f50c-4c18-a8c3-6f30cfc640f1)
+
+---
+
+## ⚠️ Important
+The launcher now runs as **Administrator by default**.  
+This is **intentional and required** to ensure all plugins load correctly.
+
+---
+
+## 🔧 What Changed
+- **🛠 Self-Repair System**  
+  The launcher can now automatically restore missing files.  
+  **DO NOT delete the `enbseries` folder** in the launcher directory — it contains the master backups.
+
+- **🎯 Zero-Touch Path Detection**  
+  The launcher automatically finds your Fallout 4 install. No setup required.
+
+- **🔇 Silent Shutdown**  
+  Exit cleanup has been optimized. No more temporary directory error popups.
+
+---
+
+## 🚀 Fallout Anomaly v0.5.9.1 — Hotfix
+
+### 🛠 Critical Fixes
+- **Launcher Stability**  
+  Fixed cases where the Anomaly Launcher failed to start for some users.
+
+- **Weapon Damage Scaling**  
+  Damage values now scale correctly. Combat balance should feel normal again.
+
+- **Guide Update**  
+  The **First Steps** page has been updated.  
+  **YOU MUST READ THIS** to ensure scripts initialize correctly (save/load procedure).
+
+---
+
+### 🎨 Wasteland Graffiti Added
+Lore-friendly graffiti added across the Commonwealth to improve environmental storytelling.  
+🔗 https://www.nexusmods.com/fallout4/mods/74482
+
+---
+
+### ⚠️ Mod Changes
+- **Animated World — DISABLED**  
+  Conflicts with MAIM caused issues. Temporarily removed until patched.
+
+- **Equipment Slot Limits**  
+  Still optional/disabled while fixes are pending.
+
+---
+
+## 🐛 Bug Tracker
+View resolved and tracked issues here:  
+🔗 https://github.com/orgs/Fallout-Anomaly/projects/50/views/1
+
+---
+
+## ❤️ Consider Endorsing
+If you're enjoying the list, please endorse it on Nexus:  
+🔗 https://www.nexusmods.com/fallout4/mods/74075  
+
+> You must download the file and wait **15 minutes** before endorsing  
+> *(unless you downloaded it in the past).*
+
+---
+
+## 📦 Wabbajack Notice
+**@Stalkers** — allow **~10 minutes** for this update to appear in Wabbajack.
+
+If you don’t see it:
+1. Close Wabbajack
+2. Wait a few minutes
+3. Relaunch and try again
+
+---
+
+## ❗ READ THIS
+**EVERYTHING ABOVE MUST BE READ.**  
+**YOU MUST COMPLETE THE FIRST STEPS IN THE MCM GUIDE BEFORE PLAYING.**
+
+
 ## Fallout Anomaly Update v0.5.9.1 – System Overhaul  
 **February 2, 2026**
 
