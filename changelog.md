@@ -1,3 +1,28 @@
+━━━━━━━━━━━━━━━━━━━━━━
+:tools: **Update Overview**  2/2/2026
+━━━━━━━━━━━━━━━━━━━━━━
+
+• Added support for installing custom ENBs via Root Builder  
+• ReShade is now included by default ** (Expected possible download issues, please report)**
+• Launcher updated to properly verify when an update actually exists  
+• New lore added to the Anomaly Guide, with more entries in progress  
+• Further tuning pass on damage values across the board  
+
+• Purified water no longer requires Lead Belly  
+  You must now collect dirty water, boil it, then refine it into purified water  
+
+• Many weapons have received damage increases, with a few targeted nerfs  
+
+• Multiple new ReShade presets added, including:
+  – Gas mask  
+  – Bodycam  
+  – Tarkov-style  
+  – Several additional presets  
+
+  The gas mask overlay is a temporary workaround until a custom gas mask system is completed. You can enable it by pressing home and in the dropdown go to the "reshade ini goes here" and picking Gas Mask.ini
+  ReShade can be accessed by pressing the **Home** key  
+
+
 # 🚀 Fallout Anomaly – Launcher Update  
 **HOTFIX • SAVE SAFE • 2/2/2026**
 
