@@ -1,1 +1,1 @@
-Fallen World 0.1.3 - Updated wheel menu and Prisma Mods
+Fallen World 0.1.4 MASSIVE NEW UPDATE. NEW SYSTEMS, BALANCE, MAJOR GAMEPLAY CHANGES.
