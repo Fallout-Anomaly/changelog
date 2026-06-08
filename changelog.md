@@ -1,3 +1,5 @@
+CANGELOG 6/7/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/25)
+
 CANGELOG 5/15/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/23)
 
 CANGELOG 5/10/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/21)
