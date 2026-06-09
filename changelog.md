@@ -1,10 +1,12 @@
-CANGELOG 6/7/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/25)
+CHANGELOG 6/8/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/26)
 
-CANGELOG 5/15/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/23)
+CHANGELOG 6/7/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/25)
 
-CANGELOG 5/10/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/21)
+CHANGELOG 5/15/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/23)
 
-CANGELOG 2/26/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/20)
+CHANGELOG 5/10/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/21)
+
+CHANGELOG 2/26/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/20)
 
 CHANGELOG 2/24/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/19)
 
