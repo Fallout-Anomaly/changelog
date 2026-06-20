@@ -1,3 +1,5 @@
+CHANGELOG 6/19/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/32)
+
 CHANGELOG 6/16/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/30)
 
 CHANGELOG 6/14/26 CLICK [HERE](https://github.com/Fallout-Anomaly/changelog/issues/28)
