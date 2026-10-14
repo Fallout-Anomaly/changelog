@@ -174,6 +174,114 @@ Added 45 mods covering combat, AI, companions, creatures and survival.
 * [Sailboat Abode - A Fast Travel Ship](https://www.nexusmods.com/fallout4/mods/64739)
 * [Climbable Ladders](https://www.nexusmods.com/fallout4/mods/60143)
 
+### World and Visuals
+
+We added 79 mods covering the world, lighting and weather, characters and faces, audio and textures.
+
+**World and Locations**
+
+* [Far Harbor 3D Tree LODs](https://www.nexusmods.com/fallout4/mods/63191) and [Far Harbor Evergreens - A Pine Tree Retexture](https://www.nexusmods.com/fallout4/mods/78131)
+* [Fallout Texture Overhaul - Quarry](https://www.nexusmods.com/fallout4/mods/55754)
+* [Faces of Nuka World - Thematic Terrain Replacements](https://www.nexusmods.com/fallout4/mods/44952)
+* [Gadgets of the Wasteland - Fallout x Metro](https://www.nexusmods.com/fallout4/mods/65140)
+* [SKK Fast Start Location](https://www.nexusmods.com/fallout4/mods/31198)
+* [Wasteland Graffiti](https://www.nexusmods.com/fallout4/mods/74482)
+* [Red Rocket - Window Shutters and Custom Doors](https://www.nexusmods.com/fallout4/mods/15308)
+* [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521)
+* [Better Drumlin Diner](https://www.nexusmods.com/fallout4/mods/60367)
+* [Classic Nuka-Cola Machine](https://www.nexusmods.com/fallout4/mods/81382) and [Modern Replacer - Nuka-Cola](https://www.nexusmods.com/fallout4/mods/90772)
+* [Modern Replacer - AIO](https://www.nexusmods.com/fallout4/mods/79119) and [Modernish Replacer - 90s Computer](https://www.nexusmods.com/fallout4/mods/102497)
+* [ModernHouseLOD](https://www.nexusmods.com/fallout4/mods/62975)
+* [PLC - Project Luminescence Commonwealth](https://www.nexusmods.com/fallout4/mods/102763)
+* [Barrel Bonanza - Fire Barrel Mesh Replacer - Base Object Swapper](https://www.nexusmods.com/fallout4/mods/80383)
+* [Tile Rubble Remover](https://www.nexusmods.com/fallout4/mods/62224) and [Paper Debris Removal And Extra Trash Removal Service](https://www.nexusmods.com/fallout4/mods/66804)
+* [Sinking Bodies](https://www.nexusmods.com/fallout4/mods/27140) and [Fireflies](https://www.nexusmods.com/fallout4/mods/50616)
+* Fallen World's own frozen area edits
+
+**Lighting and Weather**
+
+* [Sunlight Alignment Tweak - Better Dawn and Dusk](https://www.nexusmods.com/fallout4/mods/49613)
+* [Night Time God Rays](https://www.nexusmods.com/fallout4/mods/16265)
+* [Wet Effects](https://www.nexusmods.com/fallout4/mods/46966)
+* [xrayys surface clouds changer](https://www.nexusmods.com/fallout4/mods/49944)
+* [Bengal - long lasting Flare](https://www.nexusmods.com/fallout4/mods/79147)
+
+**Characters and Faces**
+
+* [Enhanced Vanilla Bodies](https://www.nexusmods.com/fallout4/mods/22110) and [4k Enhanced Vanilla Bodies Skin 2025 Edition](https://www.nexusmods.com/fallout4/mods/91310)
+* [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)](https://www.nexusmods.com/fallout4/mods/58950) and [The Danse Dilemma (pka Face Maxson etc.)](https://www.nexusmods.com/fallout4/mods/21923)
+* Hairstyles: [Lots More Female Hairstyles](https://www.nexusmods.com/fallout4/mods/10543), [Lots More Male Hairstyles](https://www.nexusmods.com/fallout4/mods/10695), [Lots More Facial Hair](https://www.nexusmods.com/fallout4/mods/10746), [Ponytail Hairstyles by Azar v3.0](https://www.nexusmods.com/fallout4/mods/8126), [Sleek Styles - a Hairstyle Pack](https://www.nexusmods.com/fallout4/mods/40321) and [KS Hairdos - Addon(s) with Physics](https://www.nexusmods.com/fallout4/mods/29944)
+* [Commonwealth Cuts - KS Hairdos - ApachiiSkyHair](https://www.nexusmods.com/fallout4/mods/11402), [Kirs freckles](https://www.nexusmods.com/fallout4/mods/9556) and [Eyewear and mask retexture](https://www.nexusmods.com/fallout4/mods/5021)
+* [Barber and Surgery - Front and Back Camera](https://www.nexusmods.com/fallout4/mods/55036)
+* [3rd Person Animations - Sneak Idles and Shooting - Sneak Animations](https://www.nexusmods.com/fallout4/mods/76198), [First-Person Running with Hands Animations](https://www.nexusmods.com/fallout4/mods/62240) and [First-Person Swimming Animations](https://www.nexusmods.com/fallout4/mods/62123)
+* Fallen World's own face set
+
+**Audio**
+
+* [Fallout Suite - Soundtrack Extension for Fallout 4](https://www.nexusmods.com/fallout4/mods/15870)
+* [Faded Glory - A Post-Apocalyptic Soundscape](https://www.nexusmods.com/fallout4/mods/26014)
+* [JSRS Sound Mod for Fallout 4](https://www.nexusmods.com/fallout4/mods/52931)
+* [Jolly Item Sounds](https://www.nexusmods.com/fallout4/mods/53833)
+* [Not Great Not Terrible - Scarier Geiger Counter Sounds](https://www.nexusmods.com/fallout4/mods/45354)
+* [Russian Stimpack Replacer - Metro 2033 Audio](https://www.nexusmods.com/fallout4/mods/71528)
+* [Assaultron Cyberpunk Voice Replacer](https://www.nexusmods.com/fallout4/mods/69490)
+* [Reverb and Ambiance Overhaul - Tweaked](https://www.nexusmods.com/fallout4/mods/63555)
+* [Ambient Tunnels - Audio Enhancement](https://www.nexusmods.com/fallout4/mods/66713)
+* [Louder Waves](https://www.nexusmods.com/fallout4/mods/73940)
+
+**Textures**
+
+* [America Rising 2 - Texture Improvements](https://www.nexusmods.com/fallout4/mods/79001)
+* [Oppressor's Metal Barrel (4K) - Replacer](https://www.nexusmods.com/fallout4/mods/72580)
+* [The Mercenary Olive Drab 4K retexture](https://www.nexusmods.com/fallout4/mods/24753)
+* [Dilapidated Manual barrier Retexture](https://www.nexusmods.com/fallout4/mods/78853)
+
+Plus many smaller retextures, sound replacers, hairstyles and set-dressing fixes.
+
+### UI, Economy and Loot
+
+We added 31 mods covering menus, item management, character looks and loot.
+
+**UI and HUD**
+
+* [M8r98a4f2's Complex Item Sorter](https://www.nexusmods.com/fallout4/mods/48826) with [4estGimp - M8r98a4f2's Complex Item Sorter Enhancements](https://www.nexusmods.com/fallout4/mods/51307)
+* [Extra Icons for FIS](https://www.nexusmods.com/fallout4/mods/68889), [Icon Expansion Pack for FIS](https://www.nexusmods.com/fallout4/mods/88022) and [FIS - Modern Age Icons Addon](https://www.nexusmods.com/fallout4/mods/66093)
+* [Holotape Visual Improvement](https://www.nexusmods.com/fallout4/mods/84590)
+* [FO4 Photo Mode](https://www.nexusmods.com/fallout4/mods/49997)
+* [PipBoy Flashlight Sound - Metro Version](https://www.nexusmods.com/fallout4/mods/11119)
+* Fallen World's own main menu, keyboard overlay, locksmith and starter kit
+
+**Character Looks**
+
+* [Looks Menu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830), [LooksMenu Body Tattoos (CBBE) (EVB or vanilla)](https://www.nexusmods.com/fallout4/mods/25000) and [Picturesque Presets for LooksMenu](https://www.nexusmods.com/fallout4/mods/16788)
+
+**Economy and Loot**
+
+* [Commonwealth Stashes](https://www.nexusmods.com/fallout4/mods/37261) and [Fewer Cap Stashes](https://www.nexusmods.com/fallout4/mods/69582)
+* [Immersive Legendary Mutations](https://www.nexusmods.com/fallout4/mods/66165) and [Immersive Scrapping](https://www.nexusmods.com/fallout4/mods/9407)
+* [Harder Barter - Expensive Prices](https://www.nexusmods.com/fallout4/mods/82363)
+* [Lootable Cars - Exiguous](https://www.nexusmods.com/fallout4/mods/63025) and [Portable Junk Recycler Mk 2](https://www.nexusmods.com/fallout4/mods/54138)
+* [Scaling Flag Remover](https://www.nexusmods.com/fallout4/mods/73976)
+* [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174) and [Workbench Humming - Cut content restored](https://www.nexusmods.com/fallout4/mods/46384)
+
+### New Additions
+
+These are the newest additions to the list:
+
+* [HD Retexture Project - All in One (WIP)](https://www.nexusmods.com/fallout4/mods/97138) as the new texture base, replacing the previous 2K texture pack
+* [ZP's Vanilla Weather Redone](https://www.nexusmods.com/fallout4/mods/97805), replacing the previous weather setup
+* [ZP's Interior Texture Pack](https://www.nexusmods.com/fallout4/mods/109263)
+* [Dynamic Cubemap F4](https://www.nexusmods.com/fallout4/mods/108870)
+* [T.H.C. - Tree Hugger Commonwealth](https://www.nexusmods.com/fallout4/mods/109806) with [Boston Natural Surroundings](https://www.nexusmods.com/fallout4/mods/30673)
+* [Immersive Diamond City Gate](https://www.nexusmods.com/fallout4/mods/110010)
+* [Adaptive Combat Tactics (ACT) (Better AI)](https://www.nexusmods.com/fallout4/mods/107069)
+* [CSEP Presents - Detour - New Town and Quest Mod](https://www.nexusmods.com/fallout4/mods/109732)
+* [Modern Weapon Behavior](https://www.nexusmods.com/fallout4/mods/109700) with [See Through Scopes](https://www.nexusmods.com/fallout4/mods/9476)
+* [Finishers - More and Varied Kill Moves](https://www.nexusmods.com/fallout4/mods/109832)
+* [Dreams Portable Sleeping Bags](https://www.nexusmods.com/fallout4/mods/109841)
+* [Simple Peek](https://www.nexusmods.com/fallout4/mods/110064)
+* [Squadmate - Companion Combat Engine](https://www.nexusmods.com/fallout4/mods/109713)
+
 ### Left Out on Purpose
 
 We left these out because of serious open bug reports or known problems:
@@ -192,14 +300,6 @@ We left these out because of serious open bug reports or known problems:
 ### Brand New Quests
 
 Brand new Fallen World quests are in development. More details will be shared as they come together.
-
-### Requested Additions
-
-Mods are being added from the request list. These include a new HD texture pack that replaces the current 2K pack, a replacement for Uneducated Shooter, and new weather and world additions. Links will be added here once each one is in.
-
-### UI and HUD
-
-Reviewing the UI, HUD and economy mods, including the Fallen World Prisma UI systems.
 
 ---
 
@@ -230,14 +330,13 @@ The goal for this version is to cover every part of Fallout 4. Here is the plan,
 ### World, Locations and Previs
 
 * Set up the precombine and previs rules first, so that world mods don't hurt performance or cause flickering
+* Previs regeneration for new world edits
 * World additions and location overhauls that pass the previs check
 * LOD improvements
 
 ### Visuals, Lighting and Characters
 
-* Lighting and weather visuals
-* Character visuals and hair, with Synthetic Facelift patches for companions and NPCs
-* The new HD texture pack
+* Synthetic Facelift patches for companions and NPCs
 
 ### Weapons, Armor and Loot
 
@@ -250,7 +349,8 @@ The goal for this version is to cover every part of Fallout 4. Here is the plan,
 
 ### UI and HUD
 
-* Finish the UI and HUD pass, including the Fallen World Prisma UI systems
+* Finish the Fallen World Prisma UI systems
+* Update [K2040's Quick Attach Menu](https://www.nexusmods.com/fallout4/mods/109575)
 
 ### Stability and Performance
 
