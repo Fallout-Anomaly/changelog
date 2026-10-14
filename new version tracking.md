@@ -42,10 +42,14 @@ Added the core frameworks that other mods depend on:
 
 * [Papyrus Common Library](https://www.nexusmods.com/fallout4/mods/86222)
 * [Lighthouse Papyrus Extender](https://www.nexusmods.com/fallout4/mods/71420)
-* [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004) (with the Old-Gen script replacers)
+* [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004), updated to 2.6.1 along with its Old-Gen script replacers
 * [Backported Archive2 Support System](https://www.nexusmods.com/fallout4/mods/81859)
 * [Console Util](https://www.nexusmods.com/fallout4/mods/51951)
 * [Console Commands Extender](https://www.nexusmods.com/fallout4/mods/47328)
+
+### Core Mods Brought Up to Date
+
+Checked the core mods against their latest Old-Gen releases. [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004) is now on 2.6.1. Everything else, including [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798), [Addictol](https://www.nexusmods.com/fallout4/mods/84214) and [Pip-Boy Light Detection Fix](https://www.nexusmods.com/fallout4/mods/101467), was already on its newest version.
 
 ### Duplicate Frameworks Cleaned Up
 
@@ -354,7 +358,7 @@ The goal for this version is to cover every part of Fallout 4. Here is the plan,
 
 ### Stability and Performance
 
-* Update core mods to their latest Old-Gen releases, including Workshop Framework, Prisma UI, High FPS Physics Fix, Addictol, and Pip-Boy Light Detection Fix
+* Update [Prisma UI](https://www.nexusmods.com/fallout4/mods/105454) to its latest Old-Gen release
 * Crash and stability review of the full load order
 
 ### Testing
