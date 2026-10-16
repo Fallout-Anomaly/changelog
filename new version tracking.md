@@ -294,7 +294,6 @@ Perks and leveling now run on [You Are Exceptional - Skills and Perk Overhaul](h
 * Lucky 7 - Hardcore Start no longer overrides the perk points per level setting, so the YAE values are what you get
 * Added the [YAE MAIM Redux Patch](https://www.nexusmods.com/fallout4/mods/77701) so YAE and MAIM Redux work together
 * Added the YAE Companion Compatibility Patch (on the YAE files page) so companions use the new perks correctly
-* We aren't using RobCo True Damage, so the YAE True Damage patch is left off
 
 ### Left Out on Purpose
 
