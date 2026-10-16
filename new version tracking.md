@@ -286,6 +286,20 @@ These are the newest additions to the list:
 * [Simple Peek](https://www.nexusmods.com/fallout4/mods/110064)
 * [Squadmate - Companion Combat Engine](https://www.nexusmods.com/fallout4/mods/109713)
 
+### Melee and Explosives
+
+Melee and explosives were the thinnest part of the list, so they got their own batch:
+
+* [Makeshift Melee Weapon Pack](https://www.nexusmods.com/fallout4/mods/72927): scrap-built melee weapons for the wasteland
+* [Pig's Improvised Explosives Pack](https://www.nexusmods.com/fallout4/mods/75225): homemade grenades and bombs
+* [Better Explosives Redux](https://www.nexusmods.com/fallout4/mods/37572): explosives hit harder and behave more realistically
+* [M84 FlashBang](https://www.nexusmods.com/fallout4/mods/56981)
+* [AN-M14 TH3 Incendiary Grenade](https://www.nexusmods.com/fallout4/mods/61224), replacing the Molotov
+* [BH Russian Grenade Pack](https://www.nexusmods.com/fallout4/mods/83803)
+* [The Incendiary Launcher (M202 Flash)](https://www.nexusmods.com/fallout4/mods/80646)
+
+We also cleared out a few leftover patches for mods that aren't in the list.
+
 ### Perks: You Are Exceptional
 
 Perks and leveling now run on [You Are Exceptional - Skills and Perk Overhaul](https://www.nexusmods.com/fallout4/mods/76739) (v1.21n), which reworks every perk and how you spend points. It's built only for game version 1.10.163, which is what this list runs on.
