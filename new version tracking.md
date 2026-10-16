@@ -300,6 +300,8 @@ Melee and explosives were the thinnest part of the list, so they got their own b
 
 We also cleared out a few leftover patches for mods that aren't in the list.
 
+[Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853) now has all of its models and textures. Before this, its plugin was running without them, so many super mutants could show up invisible or as error meshes.
+
 ### Perks: You Are Exceptional
 
 Perks and leveling now run on [You Are Exceptional - Skills and Perk Overhaul](https://www.nexusmods.com/fallout4/mods/76739) (v1.21n), which reworks every perk and how you spend points. It's built only for game version 1.10.163, which is what this list runs on.
