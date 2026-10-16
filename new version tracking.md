@@ -286,6 +286,16 @@ These are the newest additions to the list:
 * [Simple Peek](https://www.nexusmods.com/fallout4/mods/110064)
 * [Squadmate - Companion Combat Engine](https://www.nexusmods.com/fallout4/mods/109713)
 
+### Perks: You Are Exceptional
+
+Perks and leveling now run on [You Are Exceptional - Skills and Perk Overhaul](https://www.nexusmods.com/fallout4/mods/76739) (v1.21n), which reworks every perk and how you spend points. It's built only for game version 1.10.163, which is what this list runs on.
+
+* Its required level-up menu, [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822), and [PerkPointsPerLevel](https://www.nexusmods.com/fallout4/mods/3938) are turned on
+* Lucky 7 - Hardcore Start no longer overrides the perk points per level setting, so the YAE values are what you get
+* Added the [YAE MAIM Redux Patch](https://www.nexusmods.com/fallout4/mods/77701) so YAE and MAIM Redux work together
+* Added the YAE Companion Compatibility Patch (on the YAE files page) so companions use the new perks correctly
+* We aren't using RobCo True Damage, so the YAE True Damage patch is left off
+
 ### Left Out on Purpose
 
 We left these out because of serious open bug reports or known problems:
