@@ -296,7 +296,7 @@ More to find and do out in the Commonwealth:
 * [Church of Atom Overhaul](https://www.nexusmods.com/fallout4/mods/26173)
 * [Concord Personified](https://www.nexusmods.com/fallout4/mods/68859) and [The Way Home - Concord Hideout](https://www.nexusmods.com/fallout4/mods/60496)
 * [The Rebuild Collection](https://www.nexusmods.com/fallout4/mods/79618) with its [shared resources](https://www.nexusmods.com/fallout4/mods/80606). We're on 1.3, since the newer 1.4 files are built for the Next Gen update and won't work on our version
-* [Hunter of the Commonwealth](https://www.nexusmods.com/fallout4/mods/48853): using a compacted ESL version to save a plugin slot
+* [Hunter of the Commonwealth](https://www.nexusmods.com/fallout4/mods/48853) (2.0.3): gather meat, bones, skin and other materials from animals. This is now the only hunting mod in the list; Wasteland Hunter has been removed
 * [America Rising 2 - Delayed Start](https://www.nexusmods.com/fallout4/mods/92318): the AR2 questline no longer starts the moment you leave the vault
 
 A few more location mods (Lima Detachment, Oppressive Concord, Forgotten Pump House and others) are waiting on a previs rebuild before they can go in safely.
